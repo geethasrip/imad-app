@@ -8,7 +8,7 @@ var articles={
  'article-one':
 {
     title:'Article one',
-    heading:'Article-one',
+    heading:'article-one',
     date:'30 sep,2017',
     content:` <p>
                 This is the content of article one. This is the content of article one. This is the content of article one.
